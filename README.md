@@ -76,5 +76,6 @@ Areas I wil definitely focus on it future projects will be
 ## Author
 
 - K.M. Daniel (kmdcodes)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@kmdcodes](https://www.frontendmentor.io/profile/kmdcodes)
+- Twitter - [@kmdbank](https://x.com/kmdbank)
+- Facebook - [@kmdbank](https://facebook.com/kmd4life)
