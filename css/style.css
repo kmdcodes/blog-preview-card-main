@@ -13,13 +13,13 @@
 
 body{
     font-family : 'Figtree', 'Times New Roman', sans-serif;
+    font-weight: 500;
     background-color: var(--primary-color);
 }
 
 
 p{
     font-size : 1rem;
-    font-weight : 500;
     color : var(--gray-1);
 }
 
@@ -76,6 +76,7 @@ h1,h2, p#pub-date{
 
 .blog-content > *:hover{
     color: var(--primary-color);
+    cursor : pointer;
 }
 
 .blog-content > .tag:hover{
